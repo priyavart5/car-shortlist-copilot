@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "maruti-alto-k10",
+    "name": "Alto K10",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Hatchback",
+    "priceLakh": 4.8,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "budget",
+      "city",
+      "easy-maintenance"
+    ],
+    "cityScore": 9,
+    "familyScore": 5,
+    "mileageScore": 9,
+    "featuresScore": 4,
+    "highwayScore": 4,
+    "valueScore": 9
+  },
+  {
+    "id": "maruti-s-presso",
+    "name": "S-Presso",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Hatchback",
+    "priceLakh": 5.4,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "budget",
+      "city",
+      "tall-boy"
+    ],
+    "cityScore": 8,
+    "familyScore": 5,
+    "mileageScore": 8,
+    "featuresScore": 4,
+    "highwayScore": 4,
+    "valueScore": 8
+  },
+  {
+    "id": "renault-kwid",
+    "name": "Kwid",
+    "brand": "Renault",
+    "bodyType": "Hatchback",
+    "priceLakh": 5.2,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "entry-level",
+      "city"
+    ],
+    "cityScore": 8,
+    "familyScore": 5,
+    "mileageScore": 7,
+    "featuresScore": 5,
+    "highwayScore": 4,
+    "valueScore": 7
+  },
+  {
+    "id": "maruti-wagonr",
+    "name": "WagonR",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Hatchback",
+    "priceLakh": 6.6,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "family",
+      "city",
+      "space"
+    ],
+    "cityScore": 9,
+    "familyScore": 7,
+    "mileageScore": 8,
+    "featuresScore": 5,
+    "highwayScore": 5,
+    "valueScore": 9
+  },
+  {
+    "id": "tata-tiago",
+    "name": "Tiago",
+    "brand": "Tata",
+    "bodyType": "Hatchback",
+    "priceLakh": 6.8,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "value"
+    ],
+    "cityScore": 7,
+    "familyScore": 6,
+    "mileageScore": 7,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "hyundai-grand-i10-nios",
+    "name": "Grand i10 Nios",
+    "brand": "Hyundai",
+    "bodyType": "Hatchback",
+    "priceLakh": 7.4,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "refined",
+      "city",
+      "features"
+    ],
+    "cityScore": 8,
+    "familyScore": 6,
+    "mileageScore": 7,
+    "featuresScore": 7,
+    "highwayScore": 6,
+    "valueScore": 7
+  },
+  {
+    "id": "maruti-swift",
+    "name": "Swift",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Hatchback",
+    "priceLakh": 7.2,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "popular",
+      "city",
+      "mileage"
+    ],
+    "cityScore": 9,
+    "familyScore": 6,
+    "mileageScore": 8,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "maruti-celerio",
+    "name": "Celerio",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Hatchback",
+    "priceLakh": 6.3,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "mileage",
+      "city"
+    ],
+    "cityScore": 9,
+    "familyScore": 5,
+    "mileageScore": 9,
+    "featuresScore": 5,
+    "highwayScore": 5,
+    "valueScore": 8
+  },
+  {
+    "id": "citroen-c3",
+    "name": "C3",
+    "brand": "Citroen",
+    "bodyType": "Hatchback",
+    "priceLakh": 6.9,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "comfort",
+      "distinctive"
+    ],
+    "cityScore": 7,
+    "familyScore": 6,
+    "mileageScore": 6,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 6
+  },
+  {
+    "id": "toyota-glanza",
+    "name": "Glanza",
+    "brand": "Toyota",
+    "bodyType": "Hatchback",
+    "priceLakh": 8.2,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "reliable",
+      "mileage"
+    ],
+    "cityScore": 8,
+    "familyScore": 6,
+    "mileageScore": 8,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 7
+  },
+  {
+    "id": "tata-altroz",
+    "name": "Altroz",
+    "brand": "Tata",
+    "bodyType": "Hatchback",
+    "priceLakh": 8.8,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "premium"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 7,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "maruti-baleno",
+    "name": "Baleno",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Hatchback",
+    "priceLakh": 8.9,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "space",
+      "features"
+    ],
+    "cityScore": 8,
+    "familyScore": 7,
+    "mileageScore": 8,
+    "featuresScore": 7,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "hyundai-i20",
+    "name": "i20",
+    "brand": "Hyundai",
+    "bodyType": "Hatchback",
+    "priceLakh": 9.6,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "premium",
+      "features"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 6,
+    "valueScore": 6
+  },
+  {
+    "id": "maruti-dzire",
+    "name": "Dzire",
+    "brand": "Maruti Suzuki",
+    "bodyType": "Sedan",
+    "priceLakh": 7.9,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "mileage",
+      "family",
+      "resale"
+    ],
+    "cityScore": 8,
+    "familyScore": 7,
+    "mileageScore": 9,
+    "featuresScore": 6,
+    "highwayScore": 7,
+    "valueScore": 9
+  },
+  {
+    "id": "hyundai-aura",
+    "name": "Aura",
+    "brand": "Hyundai",
+    "bodyType": "Sedan",
+    "priceLakh": 8.1,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "city",
+      "family"
+    ],
+    "cityScore": 8,
+    "familyScore": 7,
+    "mileageScore": 8,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 7
+  },
+  {
+    "id": "honda-amaze",
+    "name": "Amaze",
+    "brand": "Honda",
+    "bodyType": "Sedan",
+    "priceLakh": 9.4,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "refined",
+      "family"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 7,
+    "featuresScore": 6,
+    "highwayScore": 7,
+    "valueScore": 7
+  },
+  {
+    "id": "tata-tigor",
+    "name": "Tigor",
+    "brand": "Tata",
+    "bodyType": "Sedan",
+    "priceLakh": 8.3,
+    "fuelTypes": [
+      "Petrol",
+      "CNG",
+      "Electric"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "value"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 8,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "hyundai-verna",
+    "name": "Verna",
+    "brand": "Hyundai",
+    "bodyType": "Sedan",
+    "priceLakh": 15.4,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "premium",
+      "features"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 6,
+    "featuresScore": 9,
+    "highwayScore": 8,
+    "valueScore": 6
+  },
+  {
+    "id": "honda-city",
+    "name": "City",
+    "brand": "Honda",
+    "bodyType": "Sedan",
+    "priceLakh": 15.2,
+    "fuelTypes": [
+      "Petrol",
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "comfortable",
+      "highway"
+    ],
+    "cityScore": 7,
+    "familyScore": 9,
+    "mileageScore": 7,
+    "featuresScore": 8,
+    "highwayScore": 9,
+    "valueScore": 7
+  },
+  {
+    "id": "skoda-slavia",
+    "name": "Slavia",
+    "brand": "Skoda",
+    "bodyType": "Sedan",
+    "priceLakh": 13.9,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "performance",
+      "premium"
+    ],
+    "cityScore": 6,
+    "familyScore": 8,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 8,
+    "valueScore": 6
+  },
+  {
+    "id": "volkswagen-virtus",
+    "name": "Virtus",
+    "brand": "Volkswagen",
+    "bodyType": "Sedan",
+    "priceLakh": 14.1,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "highway",
+      "premium"
+    ],
+    "cityScore": 6,
+    "familyScore": 8,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 8,
+    "valueScore": 6
+  },
+  {
+    "id": "maruti-fronx",
+    "name": "Fronx",
+    "brand": "Maruti Suzuki",
+    "bodyType": "SUV",
+    "priceLakh": 8.6,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "style",
+      "city"
+    ],
+    "cityScore": 8,
+    "familyScore": 6,
+    "mileageScore": 8,
+    "featuresScore": 7,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "tata-punch",
+    "name": "Punch",
+    "brand": "Tata",
+    "bodyType": "SUV",
+    "priceLakh": 7.9,
+    "fuelTypes": [
+      "Petrol",
+      "CNG",
+      "Electric"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "compact-suv"
+    ],
+    "cityScore": 8,
+    "familyScore": 6,
+    "mileageScore": 7,
+    "featuresScore": 6,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "hyundai-exter",
+    "name": "Exter",
+    "brand": "Hyundai",
+    "bodyType": "SUV",
+    "priceLakh": 8.1,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "features",
+      "city"
+    ],
+    "cityScore": 8,
+    "familyScore": 6,
+    "mileageScore": 7,
+    "featuresScore": 8,
+    "highwayScore": 6,
+    "valueScore": 7
+  },
+  {
+    "id": "nissan-magnite",
+    "name": "Magnite",
+    "brand": "Nissan",
+    "bodyType": "SUV",
+    "priceLakh": 7.7,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "value",
+      "turbo"
+    ],
+    "cityScore": 7,
+    "familyScore": 6,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "renault-kiger",
+    "name": "Kiger",
+    "brand": "Renault",
+    "bodyType": "SUV",
+    "priceLakh": 7.8,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "value",
+      "city"
+    ],
+    "cityScore": 7,
+    "familyScore": 6,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 6,
+    "valueScore": 8
+  },
+  {
+    "id": "maruti-brezza",
+    "name": "Brezza",
+    "brand": "Maruti Suzuki",
+    "bodyType": "SUV",
+    "priceLakh": 10.1,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "reliable",
+      "family",
+      "resale"
+    ],
+    "cityScore": 8,
+    "familyScore": 8,
+    "mileageScore": 8,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "hyundai-venue",
+    "name": "Venue",
+    "brand": "Hyundai",
+    "bodyType": "SUV",
+    "priceLakh": 10.8,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "features",
+      "compact-suv"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 7,
+    "featuresScore": 8,
+    "highwayScore": 7,
+    "valueScore": 7
+  },
+  {
+    "id": "kia-sonet",
+    "name": "Sonet",
+    "brand": "Kia",
+    "bodyType": "SUV",
+    "priceLakh": 11.2,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "features",
+      "premium"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 7,
+    "featuresScore": 9,
+    "highwayScore": 7,
+    "valueScore": 7
+  },
+  {
+    "id": "mahindra-xuv-3xo",
+    "name": "XUV 3XO",
+    "brand": "Mahindra",
+    "bodyType": "SUV",
+    "priceLakh": 8.5,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "turbo"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "tata-nexon",
+    "name": "Nexon",
+    "brand": "Tata",
+    "bodyType": "SUV",
+    "priceLakh": 9.2,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel",
+      "CNG",
+      "Electric"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "popular"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 7,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "skoda-kylaq",
+    "name": "Kylaq",
+    "brand": "Skoda",
+    "bodyType": "SUV",
+    "priceLakh": 8.9,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "premium",
+      "european"
+    ],
+    "cityScore": 6,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 6
+  },
+  {
+    "id": "kia-syros",
+    "name": "Syros",
+    "brand": "Kia",
+    "bodyType": "SUV",
+    "priceLakh": 9.7,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "new",
+      "features"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 6,
+    "valueScore": 6
+  },
+  {
+    "id": "maruti-grand-vitara",
+    "name": "Grand Vitara",
+    "brand": "Maruti Suzuki",
+    "bodyType": "SUV",
+    "priceLakh": 11.8,
+    "fuelTypes": [
+      "Petrol",
+      "Hybrid",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "mileage",
+      "family"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 9,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "toyota-urban-cruiser-hyryder",
+    "name": "Urban Cruiser Hyryder",
+    "brand": "Toyota",
+    "bodyType": "SUV",
+    "priceLakh": 11.6,
+    "fuelTypes": [
+      "Petrol",
+      "Hybrid",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "hybrid",
+      "reliable"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 9,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 7
+  },
+  {
+    "id": "hyundai-creta",
+    "name": "Creta",
+    "brand": "Hyundai",
+    "bodyType": "SUV",
+    "priceLakh": 11.1,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "family",
+      "features",
+      "popular"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 7,
+    "featuresScore": 8,
+    "highwayScore": 8,
+    "valueScore": 7
+  },
+  {
+    "id": "kia-seltos",
+    "name": "Seltos",
+    "brand": "Kia",
+    "bodyType": "SUV",
+    "priceLakh": 11.3,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "features",
+      "highway"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 7,
+    "featuresScore": 9,
+    "highwayScore": 8,
+    "valueScore": 7
+  },
+  {
+    "id": "honda-elevate",
+    "name": "Elevate",
+    "brand": "Honda",
+    "bodyType": "SUV",
+    "priceLakh": 11.7,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "family",
+      "reliable"
+    ],
+    "cityScore": 7,
+    "familyScore": 8,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 8,
+    "valueScore": 7
+  },
+  {
+    "id": "volkswagen-taigun",
+    "name": "Taigun",
+    "brand": "Volkswagen",
+    "bodyType": "SUV",
+    "priceLakh": 11.8,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "turbo",
+      "highway"
+    ],
+    "cityScore": 6,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 8,
+    "valueScore": 6
+  },
+  {
+    "id": "skoda-kushaq",
+    "name": "Kushaq",
+    "brand": "Skoda",
+    "bodyType": "SUV",
+    "priceLakh": 11.9,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "premium",
+      "highway"
+    ],
+    "cityScore": 6,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 8,
+    "valueScore": 6
+  },
+  {
+    "id": "mg-astor",
+    "name": "Astor",
+    "brand": "MG",
+    "bodyType": "SUV",
+    "priceLakh": 10.9,
+    "fuelTypes": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "features",
+      "premium"
+    ],
+    "cityScore": 7,
+    "familyScore": 7,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 7,
+    "valueScore": 6
+  },
+  {
+    "id": "mahindra-scorpio-n",
+    "name": "Scorpio N",
+    "brand": "Mahindra",
+    "bodyType": "SUV",
+    "priceLakh": 13.8,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "big-suv",
+      "road-presence"
+    ],
+    "cityScore": 5,
+    "familyScore": 8,
+    "mileageScore": 5,
+    "featuresScore": 7,
+    "highwayScore": 8,
+    "valueScore": 7
+  },
+  {
+    "id": "mahindra-xuv700",
+    "name": "XUV700",
+    "brand": "Mahindra",
+    "bodyType": "SUV",
+    "priceLakh": 13.9,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "features",
+      "family",
+      "big-suv"
+    ],
+    "cityScore": 5,
+    "familyScore": 9,
+    "mileageScore": 5,
+    "featuresScore": 9,
+    "highwayScore": 8,
+    "valueScore": 8
+  },
+  {
+    "id": "tata-harrier",
+    "name": "Harrier",
+    "brand": "Tata",
+    "bodyType": "SUV",
+    "priceLakh": 14.9,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "safe",
+      "road-presence"
+    ],
+    "cityScore": 5,
+    "familyScore": 8,
+    "mileageScore": 6,
+    "featuresScore": 8,
+    "highwayScore": 8,
+    "valueScore": 7
+  },
+  {
+    "id": "mg-hector",
+    "name": "Hector",
+    "brand": "MG",
+    "bodyType": "SUV",
+    "priceLakh": 14.1,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 5,
+    "tags": [
+      "features",
+      "space"
+    ],
+    "cityScore": 5,
+    "familyScore": 8,
+    "mileageScore": 5,
+    "featuresScore": 9,
+    "highwayScore": 7,
+    "valueScore": 6
+  },
+  {
+    "id": "tata-safari",
+    "name": "Safari",
+    "brand": "Tata",
+    "bodyType": "SUV",
+    "priceLakh": 15.7,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "family",
+      "road-presence"
+    ],
+    "cityScore": 5,
+    "familyScore": 9,
+    "mileageScore": 5,
+    "featuresScore": 8,
+    "highwayScore": 8,
+    "valueScore": 7
+  },
+  {
+    "id": "toyota-fortuner",
+    "name": "Fortuner",
+    "brand": "Toyota",
+    "bodyType": "SUV",
+    "priceLakh": 33.4,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "seating": 7,
+    "tags": [
+      "premium",
+      "rugged",
+      "resale"
+    ],
+    "cityScore": 4,
+    "familyScore": 8,
+    "mileageScore": 4,
+    "featuresScore": 7,
+    "highwayScore": 9,
+    "valueScore": 5
+  },
+  {
+    "id": "kia-carens",
+    "name": "Carens",
+    "brand": "Kia",
+    "bodyType": "MPV",
+    "priceLakh": 10.5,
+    "fuelTypes": [
+      "Petrol",
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "family",
+      "features",
+      "mpv"
+    ],
+    "cityScore": 6,
+    "familyScore": 9,
+    "mileageScore": 7,
+    "featuresScore": 8,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "maruti-ertiga",
+    "name": "Ertiga",
+    "brand": "Maruti Suzuki",
+    "bodyType": "MPV",
+    "priceLakh": 9.7,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "family",
+      "mileage",
+      "value"
+    ],
+    "cityScore": 7,
+    "familyScore": 9,
+    "mileageScore": 8,
+    "featuresScore": 6,
+    "highwayScore": 7,
+    "valueScore": 9
+  },
+  {
+    "id": "toyota-rumion",
+    "name": "Rumion",
+    "brand": "Toyota",
+    "bodyType": "MPV",
+    "priceLakh": 10.4,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "family",
+      "reliable"
+    ],
+    "cityScore": 7,
+    "familyScore": 9,
+    "mileageScore": 8,
+    "featuresScore": 6,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "maruti-xl6",
+    "name": "XL6",
+    "brand": "Maruti Suzuki",
+    "bodyType": "MPV",
+    "priceLakh": 11.6,
+    "fuelTypes": [
+      "Petrol",
+      "CNG"
+    ],
+    "transmissions": [
+      "Manual",
+      "Automatic"
+    ],
+    "seating": 6,
+    "tags": [
+      "captain-seats",
+      "family"
+    ],
+    "cityScore": 6,
+    "familyScore": 9,
+    "mileageScore": 7,
+    "featuresScore": 7,
+    "highwayScore": 7,
+    "valueScore": 8
+  },
+  {
+    "id": "toyota-innova-crysta",
+    "name": "Innova Crysta",
+    "brand": "Toyota",
+    "bodyType": "MPV",
+    "priceLakh": 19.9,
+    "fuelTypes": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "seating": 7,
+    "tags": [
+      "family",
+      "durable",
+      "highway"
+    ],
+    "cityScore": 5,
+    "familyScore": 10,
+    "mileageScore": 6,
+    "featuresScore": 7,
+    "highwayScore": 9,
+    "valueScore": 7
+  },
+  {
+    "id": "toyota-innova-hycross",
+    "name": "Innova Hycross",
+    "brand": "Toyota",
+    "bodyType": "MPV",
+    "priceLakh": 19.8,
+    "fuelTypes": [
+      "Petrol",
+      "Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "seating": 7,
+    "tags": [
+      "premium",
+      "family",
+      "hybrid"
+    ],
+    "cityScore": 6,
+    "familyScore": 10,
+    "mileageScore": 8,
+    "featuresScore": 8,
+    "highwayScore": 8,
+    "valueScore": 7
+  }
+]
